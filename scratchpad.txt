@@ -1,0 +1,7 @@
+﻿- click systray icon to pause/resume if running
+- better non-running icon
+- application icon
+- configurable times
+- put on github
+- use form to show "time's up" alert
+  - buttons for same things as menu items
